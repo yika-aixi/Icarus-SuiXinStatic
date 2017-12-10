@@ -7,6 +7,7 @@
   Droppages:http://droppages.com/
   
   Dropbox:https://www.dropbox.com
+  
   Dropbox的个人邀请:https://db.tt/HwGXs4sxUf
   
     使用方法:首先先去Dropbox注册一个账号,然后再去Droppages用Dropbox的账号登入然后绑定,然后进入个人管理界面,创建一个网站,这时候会在Dropbox里应用中有一个网站连接的文件夹,然后吧本库中的东西全部拖到那个文件夹下然后同步一样就可以运行,那个文件夹中有个默认例子,可以都删了
