@@ -1,0 +1,12 @@
+:index
+
+@Start_1 (｡･∀･)ﾉﾞ嗨
+@Start_2 欢迎你的访问~
+@Describe 我是Icarus,这是随心静态版本,动态版的已经放弃维护了,为什么呢,因为数据库没备份呀,其实最重要的是内网映射访问太慢加上只有1G流量,,电脑全天开机,这会让我的伊卡受不了的,为什么不弄云,因为没钱,(●'◡'●) 
+@MusicName  fallen down
+@SingerName 早見沙織
+@MusicDesc 伊卡洛斯学园祭唱的~
+@BlogBoxName Blog!什么这是Blog?Blog在哪?
+@BlogTitle_1 测试
+@BlogDescribe_1 这是测试
+@BlogUrl_1 http://www.baidu.com
