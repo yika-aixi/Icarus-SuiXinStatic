@@ -3,6 +3,8 @@
 
 模板:http://www.templatemo.com/tm-505-stacked
 
+markdown语法：https://daringfireball.net/projects/markdown/basics
+
 运行此站所需的东西:
   Droppages:http://droppages.com/
   
